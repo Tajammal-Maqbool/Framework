@@ -1,0 +1,16 @@
+E:\oop\Game FrameWork\Framework_02\obj\Debug\netcoreapp3.1\Framework_02.csprojAssemblyReference.cache
+E:\oop\Game FrameWork\Framework_02\obj\Debug\netcoreapp3.1\Framework_02.Properties.Resources.resources
+E:\oop\Game FrameWork\Framework_02\obj\Debug\netcoreapp3.1\Framework_02.csproj.GenerateResource.cache
+E:\oop\Game FrameWork\Framework_02\obj\Debug\netcoreapp3.1\Framework_02.AssemblyInfoInputs.cache
+E:\oop\Game FrameWork\Framework_02\obj\Debug\netcoreapp3.1\Framework_02.AssemblyInfo.cs
+E:\oop\Game FrameWork\Framework_02\obj\Debug\netcoreapp3.1\Framework_02.csproj.CoreCompileInputs.cache
+E:\oop\Game FrameWork\Framework_02\bin\Debug\netcoreapp3.1\Framework_02.exe
+E:\oop\Game FrameWork\Framework_02\bin\Debug\netcoreapp3.1\Framework_02.deps.json
+E:\oop\Game FrameWork\Framework_02\bin\Debug\netcoreapp3.1\Framework_02.runtimeconfig.json
+E:\oop\Game FrameWork\Framework_02\bin\Debug\netcoreapp3.1\Framework_02.runtimeconfig.dev.json
+E:\oop\Game FrameWork\Framework_02\bin\Debug\netcoreapp3.1\Framework_02.dll
+E:\oop\Game FrameWork\Framework_02\bin\Debug\netcoreapp3.1\Framework_02.pdb
+E:\oop\Game FrameWork\Framework_02\obj\Debug\netcoreapp3.1\Framework_02.GameForm.resources
+E:\oop\Game FrameWork\Framework_02\obj\Debug\netcoreapp3.1\Framework_02.dll
+E:\oop\Game FrameWork\Framework_02\obj\Debug\netcoreapp3.1\Framework_02.pdb
+E:\oop\Game FrameWork\Framework_02\obj\Debug\netcoreapp3.1\Framework_02.genruntimeconfig.cache

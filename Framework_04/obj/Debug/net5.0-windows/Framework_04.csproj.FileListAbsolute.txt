@@ -1,0 +1,12 @@
+E:\oop\Game FrameWork\Framework_04\bin\Debug\net5.0-windows\Framework_04.deps.json
+E:\oop\Game FrameWork\Framework_04\bin\Debug\net5.0-windows\Framework_04.dll
+E:\oop\Game FrameWork\Framework_04\bin\Debug\net5.0-windows\ref\Framework_04.dll
+E:\oop\Game FrameWork\Framework_04\bin\Debug\net5.0-windows\Framework_04.pdb
+E:\oop\Game FrameWork\Framework_04\obj\Debug\net5.0-windows\Framework_04.csprojAssemblyReference.cache
+E:\oop\Game FrameWork\Framework_04\obj\Debug\net5.0-windows\Framework_04.GeneratedMSBuildEditorConfig.editorconfig
+E:\oop\Game FrameWork\Framework_04\obj\Debug\net5.0-windows\Framework_04.AssemblyInfoInputs.cache
+E:\oop\Game FrameWork\Framework_04\obj\Debug\net5.0-windows\Framework_04.AssemblyInfo.cs
+E:\oop\Game FrameWork\Framework_04\obj\Debug\net5.0-windows\Framework_04.csproj.CoreCompileInputs.cache
+E:\oop\Game FrameWork\Framework_04\obj\Debug\net5.0-windows\Framework_04.dll
+E:\oop\Game FrameWork\Framework_04\obj\Debug\net5.0-windows\ref\Framework_04.dll
+E:\oop\Game FrameWork\Framework_04\obj\Debug\net5.0-windows\Framework_04.pdb

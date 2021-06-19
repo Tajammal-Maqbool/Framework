@@ -1,0 +1,16 @@
+C:\Users\Mian\source\repos\Framework_01\bin\Debug\netcoreapp3.1\Framework_01.exe
+C:\Users\Mian\source\repos\Framework_01\bin\Debug\netcoreapp3.1\Framework_01.deps.json
+C:\Users\Mian\source\repos\Framework_01\bin\Debug\netcoreapp3.1\Framework_01.runtimeconfig.json
+C:\Users\Mian\source\repos\Framework_01\bin\Debug\netcoreapp3.1\Framework_01.runtimeconfig.dev.json
+C:\Users\Mian\source\repos\Framework_01\bin\Debug\netcoreapp3.1\Framework_01.dll
+C:\Users\Mian\source\repos\Framework_01\bin\Debug\netcoreapp3.1\Framework_01.pdb
+C:\Users\Mian\source\repos\Framework_01\obj\Debug\netcoreapp3.1\Framework_01.csprojAssemblyReference.cache
+C:\Users\Mian\source\repos\Framework_01\obj\Debug\netcoreapp3.1\Framework_01.GameForm.resources
+C:\Users\Mian\source\repos\Framework_01\obj\Debug\netcoreapp3.1\Framework_01.Properties.Resources.resources
+C:\Users\Mian\source\repos\Framework_01\obj\Debug\netcoreapp3.1\Framework_01.csproj.GenerateResource.cache
+C:\Users\Mian\source\repos\Framework_01\obj\Debug\netcoreapp3.1\Framework_01.AssemblyInfoInputs.cache
+C:\Users\Mian\source\repos\Framework_01\obj\Debug\netcoreapp3.1\Framework_01.AssemblyInfo.cs
+C:\Users\Mian\source\repos\Framework_01\obj\Debug\netcoreapp3.1\Framework_01.csproj.CoreCompileInputs.cache
+C:\Users\Mian\source\repos\Framework_01\obj\Debug\netcoreapp3.1\Framework_01.dll
+C:\Users\Mian\source\repos\Framework_01\obj\Debug\netcoreapp3.1\Framework_01.pdb
+C:\Users\Mian\source\repos\Framework_01\obj\Debug\netcoreapp3.1\Framework_01.genruntimeconfig.cache
